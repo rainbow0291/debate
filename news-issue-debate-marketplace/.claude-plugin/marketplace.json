@@ -1,0 +1,14 @@
+{
+  "name": "yul-plugins",
+  "owner": {
+    "name": "yul",
+    "email": "yul@yoonjione.top"
+  },
+  "plugins": [
+    {
+      "name": "news-issue-debate",
+      "source": "./plugins/news-issue-debate",
+      "description": "한국경제 뉴스에서 논쟁적인 쟁점을 뽑아 찬성/반대 논거를 서로 다른 출처로 교차 검증해 중립적으로 정리해주는 플러그인"
+    }
+  ]
+}

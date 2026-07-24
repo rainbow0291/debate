@@ -1,0 +1,17 @@
+{
+  "name": "news-issue-debate",
+  "version": "0.1.0",
+  "description": "한국경제 뉴스에서 논쟁적인 쟁점을 뽑아 찬성/반대 논거를 서로 다른 출처로 교차 검증해 중립적으로 정리해주는 플러그인",
+  "author": {
+    "name": "yul"
+  },
+  "keywords": [
+    "news",
+    "debate",
+    "pros-cons",
+    "찬반",
+    "쟁점",
+    "hankyung",
+    "issue-brief"
+  ]
+}
