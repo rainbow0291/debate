@@ -15,7 +15,7 @@ Claude Code / Cowork 플러그인 마켓플레이스입니다. 현재는 플러�
 이 저장소가 GitHub 같은 곳에 올라가 있다면, Claude Code에서:
 
 ```
-/plugin marketplace add <이 저장소의 owner>/<repo>
+/plugin marketplace add rainbow0291/debate
 /plugin install news-issue-debate@yul-plugins
 /reload-plugins
 ```
